@@ -9,7 +9,7 @@
     {
       "name": "session-insights",
       "description": "Persistent session insights — Claude writes interaction observations at session end, you curate when the file grows",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "Etienne Pellegrini"
       },
