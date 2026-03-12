@@ -1,0 +1,24 @@
+{
+  "name": "cc-marketplace",
+  "description": "Etienne's Claude Code plugin marketplace — custom productivity and development plugins",
+  "owner": {
+    "name": "Etienne Pellegrini",
+    "email": "etienne.pellegrini@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "session-insights",
+      "description": "Persistent session insights — Claude writes interaction observations at session end, you curate when the file grows",
+      "version": "0.1.0",
+      "author": {
+        "name": "Etienne Pellegrini"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/etiennepellegrini/session-insights.git"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/etiennepellegrini/session-insights"
+    }
+  ]
+}
