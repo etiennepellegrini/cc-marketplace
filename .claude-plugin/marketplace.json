@@ -15,7 +15,7 @@
       },
       "source": {
         "source": "url",
-        "url": "https://github.com/etiennepellegrini/session-insights.git"
+        "url": "git@github.com:etiennepellegrini/session-insights.git"
       },
       "category": "productivity",
       "homepage": "https://github.com/etiennepellegrini/session-insights"
