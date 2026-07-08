@@ -20,6 +20,18 @@
       },
       "category": "productivity",
       "homepage": "https://github.com/etiennepellegrini/session-insights"
+    },
+    {
+      "name": "fortls-lsp",
+      "description": "Fortran language server (fortls) integration for Claude Code",
+      "version": "0.1.0",
+      "author": {
+        "name": "Etienne Pellegrini",
+        "email": "etienne.pellegrini@gmail.com"
+      },
+      "source": "./fortls-lsp",
+      "category": "development",
+      "homepage": "https://github.com/etiennepellegrini/cc-marketplace/tree/main/fortls-lsp"
     }
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "name": "fortls-lsp",
+  "description": "Fortran language server (fortls) for Claude Code",
+  "version": "0.1.0",
+  "lspServers": {
+    "fortran": {
+      "command": "fortls",
+      "extensionToLanguage": {
+        ".f90": "fortran", ".F90": "fortran",
+        ".f95": "fortran", ".F95": "fortran",
+        ".f03": "fortran", ".F03": "fortran",
+        ".f08": "fortran", ".F08": "fortran",
+        ".f":   "fortran", ".F":   "fortran",
+        ".for": "fortran", ".FOR": "fortran",
+        ".f77": "fortran", ".F77": "fortran",
+        ".fpp": "fortran", ".FPP": "fortran"
+      }
+    }
+  }
+}
