@@ -24,7 +24,7 @@
     {
       "name": "websearch",
       "description": "Web search for deployments where the built-in WebSearch tool is unavailable (Bedrock, Vertex). A skill composes and triggers searches, a permission rule gates each outbound query, and an async hook keeps an audit log.",
-      "version": "0.3.1",
+      "version": "0.4.0",
       "author": {
         "name": "Etienne Pellegrini",
         "email": "etienne.pellegrini@gmail.com"
